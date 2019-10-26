@@ -21,6 +21,7 @@ Positions Open
 - Community organizer
 - Graphic Designer
 - Social Media Manager
+- Website Administrator 
 
 
 
