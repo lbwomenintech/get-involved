@@ -18,10 +18,42 @@ Ways to contribute
 
 Leadership Positions Open
 - Events coordinator
+     - Creating event page using meetup and eventbrite 
+     - Finding Location 
+     - Project Manage Event 
+     
+- Event Organizer(s)
+    - creates structure and content of event. details of what will be covered, outline, etc. 
+    
 - Community organizer
-- Graphic Designer
+    - Find ways to engage with community 
+    - Reach out and collaborate with other tech groups
+    - Collaborate with Event Coordinator on existing event with partner/sponsor
+    - Share future event ideas from feedback in regular meeting
+    
 - Social Media Manager
-- Website Administrator 
+    - Promote event and post on social media daily 
+    - Instagram and Twitter daily 
+    - LinkedIn once a week 
+    - Manage a backlog of content 
+    - Coordinate Blog Post once a week
+    
+- Executive Administrator 
+    - Maintain email and social media messengers 
+    - Maintain meeting minutes 
+    - Maintain MailChimp 
 
+- Website Administrator 
+    - maintain wordpress website
+    - add media to website 
+    - add and maintain website content
+    - maintain website security 
+    
+- Content Creator 
+    - create content for blog or social media 
+    - create a newsletter once a month 
+
+- Graphic Designer
+    - mantain and design assets
 
 
