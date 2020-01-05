@@ -18,7 +18,7 @@ Ways to contribute
 
 Leadership Positions Open
 - Events coordinator
-     - Creating event page using meetup and eventbrite 
+     - Creating event page using meetup, eventbrite, and LBWiT calendar
      - Finding Location 
      - Project Manage Event 
      
