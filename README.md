@@ -31,13 +31,6 @@ Leadership Positions Open
     - Collaborate with Event Coordinator on existing event with partner/sponsor
     - Share future event ideas from feedback in regular meeting
     
-- Social Media Manager
-    - Promote event and post on social media daily 
-    - Instagram and Twitter daily 
-    - LinkedIn once a week 
-    - Manage a backlog of content 
-    - Coordinate Blog Post once a week
-    
 - Executive Administrator 
     - Maintain email and social media messengers 
     - Maintain meeting minutes 
@@ -55,5 +48,13 @@ Leadership Positions Open
 
 - Graphic Designer
     - mantain and design assets
+    
+Filled Positions:
+- Social Media Manager
+    - Promote event and post on social media daily 
+    - Instagram and Twitter daily 
+    - LinkedIn once a week 
+    - Manage a backlog of content 
+    - Coordinate Blog Post once a week
 
 
